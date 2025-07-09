@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Samuel Twenhafel
-  tagline: Full Stack Developer
+  tagline: Data Anylist
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -35,10 +35,10 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: 
     info:
-    - idiom: English
-      level: Native
+    - idiom: 
+      level: 
 
     - idiom: 
       level: 
@@ -47,17 +47,17 @@ sidebar:
       level: 
 
   interests:
-    title: Interests
+    title: 
     info:
-    - item: Climbing
+    - item: 
       link:
 
 
-    - item: Snowboarding
+    - item: 
       link:
 
 
-    - item: Cooking
+    - item: 
       link:
 
 
