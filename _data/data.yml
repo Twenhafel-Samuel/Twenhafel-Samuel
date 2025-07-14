@@ -34,33 +34,6 @@ sidebar:
   leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  languages:
-    title: 
-    info:
-    - idiom: 
-      level: 
-
-    - idiom: 
-      level: 
-
-    - idiom: 
-      level: 
-
-  interests:
-    title: 
-    info:
-    - item: 
-      link:
-
-
-    - item: 
-      link:
-
-
-    - item: 
-      link:
-
-
 career-profile:
   title: Career Profile
   summary: |
