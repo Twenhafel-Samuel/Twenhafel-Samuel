@@ -33,7 +33,7 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: https://drive.google.com/file/d/1YUtc40r-nNKWnx551WS1DwNtsp8QBY1x/view?usp=sharing # Add a PDF link here if you want to include a PDF custom version in your resume.
 
 career-profile:
   title: Career Profile
