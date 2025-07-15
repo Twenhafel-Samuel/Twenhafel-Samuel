@@ -38,8 +38,8 @@ career-profile:
   title: Career Profile
   summary: |
     I am a current Master of Data Science student with a background
-    exercise science and kinesiology. The combination of both
-    diciplines has provided me with practical experience in both
+    in exercise science and kinesiology. The combination of both
+    disciplines has provided me with practical experience in both
     designing and executing experiments, as well as 
     conducting the accompanying statistical analysis.
     
@@ -161,11 +161,11 @@ projects:
 
   - title: AI or Human Composition
     link: "#"
-    tagline: "The goal of this project was to build a model with the purpose of the determining whether or not a solo piano music was composed by a human or AI. This is currenlty an ongoing project."
+    tagline: "The goal of this project was to build a model with the purpose of determining whether or not a solo piano music was composed by a human or AI. This is currently an ongoing project."
 
   - title: Character Analysis
     link: "https://drive.google.com/file/d/1i4Gulriv5Rlh9bOOvFg9urCkbt61dzn3/view?usp=sharing"
-    tagline: "This was a final project in my Data Visualization in which we completed an analysis on the usuability of the characters in the video game Super Smash Bros Ultimate. In this project we created graphs and heatmaps with the ultimate goal of trying to help players decide which character they should select. To do this we created a shiny application that showcases the characters with the highest win percentage against the character your apponant chose. Throughout this project I learned how to minimize noise on a graph, and how to create shiny applications."
+    tagline: "This was a final project in my Data Visualization in which we completed an analysis on the usability of the characters in the video game Super Smash Bros Ultimate. In this project we created graphs and heatmaps with the ultimate goal of trying to help players decide which character they should select. To do this we created a shiny application that showcases the characters with the highest win percentage against the character your opponent chose. Throughout this project I learned how to minimize noise on a graph, and how to create shiny applications."
 
  
 skills:
