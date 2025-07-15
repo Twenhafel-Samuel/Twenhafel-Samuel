@@ -157,7 +157,7 @@ projects:
   assignments:
   - title: Atlantic Hurricanes
     link: "https://drive.google.com/file/d/1ZUeMRIpxNMeldwMDM3HZ4O4fLiR4zSAt/view?usp=sharing"
-    tagline: "The goal of this project was to accomplish a survival analysis of tropical storms in the Atlantic Ocean. The analysis showed that the duration was dependent on the categorization, and that the storms were more severe in the 1990s. "
+    tagline: "The goal of this project was to accomplish a survival analysis of tropical storms in the Atlantic Ocean. The analysis showed that the duration was dependent on the categorization, and that the storms were more severe in the 1990s. To accomplish this we used a combination of exploratory data analysis and the use of Kaplan-Meier survival estimates."
 
   - title: AI or Human Composition
     link: "#"
