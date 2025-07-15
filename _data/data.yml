@@ -163,9 +163,9 @@ projects:
     link: "#"
     tagline: "The goal of this project was to build a model with the purpose of the determining whether or not a solo piano music was composed by a human or AI. This is currenlty an ongoing project."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Character Analysis
+    link: "https://drive.google.com/file/d/1i4Gulriv5Rlh9bOOvFg9urCkbt61dzn3/view?usp=sharing"
+    tagline: "This was a final project in my Data Visualization in which we completed an analysis on the usuability of the characters in the video game Super Smash Bros Ultimate. In this project we created graphs and heatmaps with the ultimate goal of trying to help players decide which character they should select. To do this we created a shiny application that showcases the characters with the highest win percentage against the character your apponant chose. Throughout this project I learned how to minimize noise on a graph, and how to create shiny applications."
 
  
 skills:
