@@ -154,15 +154,14 @@ education:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
+  - title: Atlantic Hurricanes
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "The goal of this project was to accomplish a survival analysis of tropical storms in the Atlantic Ocean. The analysis showed that the duration was dependent on the categorization, and that the storms were more severe in the 1990s. "
 
-  - title: DevStudio
+  - title: AI or Human Composition
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "The goal of this project was to build a model with the purpose of the determining whether or not a solo piano music was composed by a human or AI. This is currenlty an ongoing project."
 
   - title: Tempo
     link: "#"
