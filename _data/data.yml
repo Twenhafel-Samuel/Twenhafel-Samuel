@@ -160,7 +160,7 @@ projects:
     tagline: "The goal of this project was to accomplish a survival analysis of tropical storms in the Atlantic Ocean. The analysis showed that the duration was dependent on the categorization, and that the storms were more severe in the 1990s. To accomplish this we used a combination of exploratory data analysis and the use of Kaplan-Meier survival estimates."
 
   - title: AI or Human Composition
-    link: "#"
+    link: "https://wu-msds-capstones.github.io/project-writeup-sam-sam-capstone/#appendix"
     tagline: "The goal of this project was to build a model with the purpose of determining whether or not a solo piano music was composed by a human or AI. This is currently an ongoing project."
 
   - title: Character Analysis
