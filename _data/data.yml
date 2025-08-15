@@ -161,7 +161,7 @@ projects:
 
   - title: AI or Human Composition
     link: "https://wu-msds-capstones.github.io/project-writeup-sam-sam-capstone/#appendix"
-    tagline: "The goal of this project was to build a model with the purpose of determining whether or not a solo piano music was composed by a human or AI. This is currently an ongoing project."
+    tagline: "The goal of this project was to build a model with the purpose of determining whether or not a solo piano music was composed by a human or AI. To figure this out, python and machine learning techniques were utalized. The analysis showed that the model was able to classify whether or not a solo piano excerpt was either a human-composed excerpt or an AI-generated song well abouve chance."
 
   - title: Character Analysis
     link: "https://drive.google.com/file/d/1i4Gulriv5Rlh9bOOvFg9urCkbt61dzn3/view?usp=sharing"
